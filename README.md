@@ -1,5 +1,5 @@
 *Please cite **[G. Klesse, S. J. Tucker, and M. S. P. Sansom. "Electric Field Induced Wetting of a Hydrophobic Gate in a
-Model Nanopore Based on the 5-HT3 Receptor Channel." ACS Nano, 2020](https://doi.org/10.1101/2020.05.25.114157)** if you make use of these scripts in your academic work.*
+Model Nanopore Based on the 5-HT3 Receptor Channel." ACS Nano, 2020](https://doi.org/10.1021/acsnano.0c04387)** if you make use of these scripts in your academic work.*
 
 # Electric-field Induced Wetting of Nanopores
 
